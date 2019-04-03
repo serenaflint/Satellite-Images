@@ -1,9 +1,6 @@
 # Satellite-Images
 
-Currently sorts colors by either standard Python sorting or by HSV.
+A repository of all the satellite images collected from my double-cross dipole targetting 137MHz. All images were taken from either NOAA 15, 18, or 19.
 
 TODO:
--Automatic inputs & outputs
--Pulling random images from a database or Google Images
--Figure out more interesting stats to post
--Make a color spectrum instead of just sorting over original image?
+Add audio!
